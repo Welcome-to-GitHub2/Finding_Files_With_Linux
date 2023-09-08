@@ -1,4 +1,4 @@
-# Finding_Files_With_Linux
+# Finding Files_With_Linux
 
 <h1>Lab 2</h1>
 
